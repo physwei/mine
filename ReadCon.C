@@ -81,7 +81,7 @@ void cal_main(string inputfile)
     
 }
 
-void ReadCon2()
+void ReadCon()
 {
     cal_main("GGF_PU0_delphes_events.root");
 }
