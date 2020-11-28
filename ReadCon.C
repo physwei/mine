@@ -83,5 +83,5 @@ void cal_main(string inputfile)
 
 void ReadCon2()
 {
-    cal_main("/home/physwei/higgs_project/event/ckm_heft/GGF/Events/run_02/GGF_1_PU0_delphes_events.root");
+    cal_main("GGF_PU0_delphes_events.root");
 }
